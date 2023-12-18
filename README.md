@@ -1,23 +1,24 @@
 # Browser-Automation-Software
-Automates web browser to fill in forms, create accounts, etc.
-Automates distribution of proxies to customers.
+X (formerly Twitter) link: `https://twitter.com/richsoftware_`<br /> 
+Automates web browsers to fill in forms and create accounts.<br /> 
+Automates the distribution of proxies to customers.
 
-This browser automation software main goal is to help users create multiple Nike accounts in a short period of time. 
-It also consists of other functions such as generating large number of random names, addresses, and emails for users to fill in random particulars.
+This browser automation software's main goal is to help users create multiple Nike accounts in a short period of time. 
+It also consists of other functions, such as generating a large number of random names, addresses, and emails for users to fill in random particulars.
+At some point, the software was considered one of the best in Southeast Asia and was widely used by many botters in the region.
 
-Some of the important libraries used are: Pyppeteer, asyncio, threading, pathlib, colorma, discord, requests, os, and many more.
-
-The software is uses APIs from Nike, Stripe, and SMS providers.
-
+Some of the important libraries used are: Pyppeteer, Asyncio, Threading, Pathlib, Colorma, Discord, Requests, OS, and many more.<br />
+The software uses APIs from Nike, Stripe, and SMS providers.<br />
 The software is coded mainly in Python.
 
-💻 The software can work with or without proxies input. Proxies allow users to mask their IP address to bypass security.
+◼ The software can work with or without proxy input. Proxies allow users to mask their IP address to bypass security.<br />
+◼ The command-line interface software will give users options to customise how they want their accounts to be created.<br />
+◼ Users can also edit the settings nodepad to customise their accounts.<br />
+◼ After users specify their requirements, the specified number of browsers will open to start generating accounts.<br />
+◼ The process includes identifying various inputs such as email, name, password, and verifying a phone number.<br />
+◼ Browsers will generate accounts in parallel for speed optimisation.<br />
+◼ Once an account has been generated, the software will send a webhook notification to the Discord webhook link that the user has provided.<br />
+◼ The task will be completed once the specified number of accounts is generated.<br />
 
-💻 The command line interface software will give users options to customize how they want their accounts to be created.
-💻 Users can also edit the settings nodepad to customize their accounts.
-💻 After users specify their requirement, the specified number of browsers will open to start generating accounts.
-💻 The process includes identifying various inputs such as email, names, password, and verifying phone numbers.
-💻 Browsers will generate accounts in parallel for speed optimization.
-💻 Once account has been generated, the software will send webhook notification to the discord webhook link which user has provided.
-💻 Task will be completed once the specified number of accounts is generated.
-
+As the software is currently being commercialised, the source code will not be provided.
+Thank you for your understanding.
