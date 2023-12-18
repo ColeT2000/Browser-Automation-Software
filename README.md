@@ -7,9 +7,10 @@ This browser automation software's main goal is to help users create multiple Ni
 It also consists of other functions, such as generating a large number of random names, addresses, and emails for users to fill in random particulars.
 At some point, the software was considered one of the best in Southeast Asia and was widely used by many botters in the region.
 
+The software is coded mainly in Python.<br />
 Some of the important libraries used are: Pyppeteer, Asyncio, Threading, Pathlib, Colorma, Discord, Requests, OS, and many more.<br />
-The software uses APIs from Nike, Stripe, and SMS providers.<br />
-The software is coded mainly in Python.
+The software uses APIs from Nike, Stripe, and SMS providers.
+
 
 # How it works
 ◼ The software can work with or without proxy input. Proxies allow users to mask their IP address to bypass security.<br />
