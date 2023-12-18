@@ -11,6 +11,7 @@ Some of the important libraries used are: Pyppeteer, Asyncio, Threading, Pathlib
 The software uses APIs from Nike, Stripe, and SMS providers.<br />
 The software is coded mainly in Python.
 
+# How it works
 ◼ The software can work with or without proxy input. Proxies allow users to mask their IP address to bypass security.<br />
 ◼ The command-line interface software will give users options to customise how they want their accounts to be created.<br />
 ◼ Users can also edit the settings nodepad to customise their accounts.<br />
